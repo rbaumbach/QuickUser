@@ -1,20 +1,24 @@
 PODS:
+  - Capsule (0.2.1)
   - Nimble (8.0.4)
   - Quick (2.2.0)
 
 DEPENDENCIES:
+  - Capsule
   - Nimble
   - Quick
 
 SPEC REPOS:
   https://github.com/CocoaPods/Specs.git:
+    - Capsule
     - Nimble
     - Quick
 
 SPEC CHECKSUMS:
+  Capsule: 3cff4a05359ca94daf00f1528aaefb87fe176d99
   Nimble: 18d5360282923225d62b09d781f63abc1a0111fc
   Quick: 7fb19e13be07b5dfb3b90d4f9824c855a11af40e
 
-PODFILE CHECKSUM: 0cbb05a93e963149f7c892d60af1cc7f4e6e7a2d
+PODFILE CHECKSUM: ff8da8f952b393efe5ef5e81a580c4c2bef24a15
 
 COCOAPODS: 1.9.3
